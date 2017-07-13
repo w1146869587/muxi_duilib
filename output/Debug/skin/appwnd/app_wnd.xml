@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Window size="250,530" mininfo="250,530" maxinfo="250,530" caption="0,0,0,27" sizebox="4,4,4,4" roundcorner="2,2,2,2">
+  <Font name="微软雅黑" size="12" id="0" default="true" shared="true"/>
+  <HorizontalLayout bkcolor="#fff6f6f6" inset="1,1,1,1" hole="true">		
+  </HorizontalLayout>
+</Window>

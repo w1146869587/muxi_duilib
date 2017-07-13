@@ -1,0 +1,14 @@
+*.tlog
+*.pdb
+*.ilk
+*.sdf
+*.suo
+*.opensdf
+
+/basis_duilib/Debug/*
+/basis_duilib/Release/*
+/duilib/Debug/*
+/duilib/Release/*
+/duilib/Build/*
+/ipch/*
+/output/Debug/basis_duilib.tlog
